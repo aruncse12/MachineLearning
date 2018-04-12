@@ -1,1 +1,32 @@
+Machine Learning:
+  - Making a Machine to learn from data given to it
+  - Machine will be given a lot of set of data
+  - M will act upon it
+  - When a Question is given M will take the question and check the data it have and give an optimal result according to the data
 
+AI & ML
+  - Both are not the same
+  - AI is very wide area where for each action user has to write code for e.g. in TicTacToe algorithm has to cover all possibilites
+    which will be played by the opposite player
+  - ML will just work on the data and give a result. No need to be very specific for each step
+  
+ML Integral parts
+  - Data
+  - Algorithms
+  
+Algorithms
+  - Lot of Algorithms for each and every purpose
+  - Linear Regression
+    - Based on different dots an optinal line will be drawn in the graph and the question will be mapped to points in the graphs
+      For e.g. home prises
+  - Polynominal Regression
+    - Kind of curved Linear Regression
+  - Gradient Desent
+    - Seems to be the modified version of Linear regression
+  - Navie Bayes Algorithm
+    - Works on the probability of each factores
+      For e.g. detecting spam mails based on word "cheep", "no title", "more number of links"
+  - Decision Tree
+    - Works on the sets of questions and answers for them in a tree manner
+    - Binary Tree
+    - For e.g. Recommended Apps
