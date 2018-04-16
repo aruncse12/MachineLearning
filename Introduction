@@ -23,6 +23,7 @@ Algorithms
     - Kind of curved Linear Regression
   - Gradient Desent
     - Seems to be the modified version of Linear regression
+    - Or used to find the line in all forms of Regression by farming the best positions for lines
   - Navie Bayes Algorithm
     - Works on the probability of each factores
       For e.g. detecting spam mails based on word "cheep", "no title", "more number of links"
@@ -30,3 +31,24 @@ Algorithms
     - Works on the sets of questions and answers for them in a tree manner
     - Binary Tree
     - For e.g. Recommended Apps
+  - Logistics Regression
+    - Works on the set of varaibles to find final result of given data
+    - For e.g. acceptence in university based on passed tests and grades of each test
+    - Looks similar to Linear Regression
+    - But it is different because here the line is formed by number of dots from one set which are in another set which is the error
+  - Nueral Networks
+    - Just as Logistic Regression but with more number of lines and circels
+    - Lines should be placed so that they are always at average distance from both set of data
+  - Support Vector Machine Kernal Trick
+    - Used to make two lines which are closer to their own set of data and then find the average
+  - K-Means Clustering
+    - Start with Random Places
+    - Move the place to center of the cluster
+    - Move the items in the cluster to the place which are closer to it
+    - Again move the place to center of cluster
+    - repeat
+    - Pizza hut problem
+  - Heirarchical Clustering
+    - Group two houses which are close to each other
+    - Repeat untill you cannot group any further because maximum distance will be reached at one point
+    - Pizza hut problem
